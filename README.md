@@ -1,4 +1,3 @@
-<img alt="WordPress Plugin Last Updated" src="https://img.shields.io/wordpress/plugin/last-updated/bbpress">
 
 # 👋 Hi there 👋
 
