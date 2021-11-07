@@ -18,9 +18,12 @@
 **👯 A list of projects I participated in**
   - ⚡ 
   - ⚡
+  - ⚡
+  - ⚡
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmeoooo&hide=contribs&count_private=true&show_icons=true&theme=radical)](https://github.com/jaywoong/github-readme-stats)
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmeooo&hide=contribs&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/mmeooo/github-readme-stats)
 
 
 <!-- 
