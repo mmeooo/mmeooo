@@ -7,7 +7,7 @@
 
 **📝 I majored in `Industrial Engineering`**
 
-**🌱 I’m currently learning `Web Design`, `Visulaization`, `ML & DL`,  `Web Scraping`**
+**🌱 I’m currently learning `Web Design`, `Visulaization`, `Web Scraping`, `MachineLearning & DeepLearning` **
 
 **🔭 Techs that I've used**
 
