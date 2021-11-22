@@ -16,9 +16,9 @@
 
 **👯 A list of projects I participated in**
   - 지역별 건강 및 환경지표를 활용한 분석 서비스  :palm_tree: [ESG (Environment Social Grenner)](https://github.com/jaywoong/project_health_environment)
-  - 주식 종가 예측 및 주식 포트폴리오 추천 서비스  :chicken: [Chicken Stock](https://github.com/jaywoong/project_stock)
+  - 주식 종가 예측 및 주식 포트폴리오 추천 서비스  :chicken: [ChickenStock](https://github.com/jaywoong/project_stock)
   - 뉴스기사 감성분석 및 편향성 예측  ⚡ [One](https://github.com/tecktonik08/Team_Project02)
-  - 국가별 운영체제별 모바일 애플리케이션 이용현황 분석 서비스   :mag_right: [Easter Egg](https://github.com/creamcheesesteak/Project_EasterEgg)
+  - 국가별 운영체제별 모바일 애플리케이션 이용현황 분석 서비스   :egg: [EasterEgg](https://github.com/creamcheesesteak/Project_EasterEgg)
 
 
 
